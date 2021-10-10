@@ -1,0 +1,26 @@
+.bg-image{
+  background-image: url("https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+.flex-item-left{
+  background-color:white;
+  opacity: 0.4;
+  height: 30vh;
+  width: 50vh;
+  margin:10px;
+  
+}
+.flex-item-left p{
+  color:black;
+  font-weight: bolder;
+  text-align: center;
+}
+@media only screen and(max-width:600px){
+  body{
+    background-color: none;
+  }
+}

@@ -1,0 +1,41 @@
+.topnav{
+  background-color: white;
+}
+
+.topnav nav ul{
+  
+  list-style: none;
+}
+
+.topnav nav h1{
+  color:black;
+  display: inline-block;
+  font-size: 1cm;
+  margin-right: 15cm;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+
+
+}
+
+.topnav nav ul li{
+  position: relative;
+  display: inline-block;
+  padding: 15px;
+  text-decoration: none;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  
+}
+
+.topnav nav ul li a{
+  text-decoration: none;
+  background-color: white;
+  color:rgb(231, 3, 117);
+  padding: 2px;
+  font-weight: bold;
+  
+}
+ 
+
+

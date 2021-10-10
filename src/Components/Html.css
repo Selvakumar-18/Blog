@@ -1,0 +1,26 @@
+.Card{
+  box-shadow:0 4px 8px 0 rgba(187, 13, 13, 0.2);
+  transition: 0.3s;
+  background-image: url(https://static3.makeuseofimages.com/wordpress/wp-content/uploads/2017/09/HTML-Effects-Featured.jpg);  
+  width: 40%;
+  height: 7cm;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 15px;
+  margin-left: 425px;
+}
+.Card:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.Card p{
+  background-color: black;
+  color:white
+}
+
+.Card a{
+  text-decoration: none;
+  color: blue;
+  background-color: white;
+}
